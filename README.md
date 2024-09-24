@@ -3,22 +3,19 @@ Your data analytics portfolio is your secret weapon when applying for potential 
 
 For this project, you will conduct your own analysis in a Jupyter Notebook and share your results through your personal GitHub page. This project can be included as part of your portfolio when you apply for data scientist and data analyst jobs. It’s good practice to showcase a variety of skills in order to make your application shine.
 
-Example Project
-This shows some code and a plot from an example portfolio project. The plot in this example is titled "Purchasing Behavior by Income" and the code focuses on an analysis of how many items a customer buys at a store based on their yearly income.
-
-Project Objectives:
-Complete a project to add to a portfolio
-Use Git version control
-Use Jupyter Notebook to communicate findings
-Run an end-to-end data analytics project
+Project Objectives:\
+Complete a project to add to a portfolio\
+Use Git version control\
+Use Jupyter Notebook to communicate findings\
+Run an end-to-end data analytics project\
 Become familiar with data analytics workflows
 
-Prerequisites:
-Python Fundamentals
-Data Acquisition
-Data Manipulation with Pandas
-Data Wrangling and Tidying
-Summary Statistics
-Hypothesis Testing
-Data Visualization
+Prerequisites:\
+Python Fundamentals\
+Data Acquisition\
+Data Manipulation with Pandas\
+Data Wrangling and Tidying\
+Summary Statistics\
+Hypothesis Testing\
+Data Visualization\
 Communicating Data Analysis Findings
